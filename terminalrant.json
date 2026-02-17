@@ -1,0 +1,15 @@
+{
+    "version": "0.2.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/CrestNiraj12/terminalrant/releases/download/v0.2.2/terminalrant_0.2.2_windows_amd64.zip",
+            "bin": [
+                "terminalrant.exe"
+            ],
+            "hash": "ce78ecf65bb631df96b0c40d700b57e09469a7ceba7eeefbae897b89edd03e6d"
+        }
+    },
+    "homepage": "https://github.com/CrestNiraj12/terminalrant",
+    "license": "MIT",
+    "description": "Rant space for developers who live in terminal"
+}
