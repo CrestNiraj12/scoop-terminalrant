@@ -1,12 +1,12 @@
 {
-    "version": "0.2.2",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CrestNiraj12/terminalrant/releases/download/v0.2.2/terminalrant_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/CrestNiraj12/terminalrant/releases/download/v0.3.0/terminalrant_0.3.0_windows_amd64.zip",
             "bin": [
                 "terminalrant.exe"
             ],
-            "hash": "ce78ecf65bb631df96b0c40d700b57e09469a7ceba7eeefbae897b89edd03e6d"
+            "hash": "c98468f424911f1c865b763d875225b3c3079ca78d9cef77f816383b85b04731"
         }
     },
     "homepage": "https://github.com/CrestNiraj12/terminalrant",
